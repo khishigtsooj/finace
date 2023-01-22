@@ -17,9 +17,9 @@
 
   "explorer.sortOrder": "type",
   "files.trimFinalNewlines": true,
-  "editor.renderIndentGuides": false,
   "workbench.editor.highlightModifiedTabs": true,
 
   "files.autoSave": "onFocusChange",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.guides.indentation": false
 }
